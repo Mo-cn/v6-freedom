@@ -1,3 +1,8 @@
+/**
+ * ⚠️ DISCLAIMER: This tool is for educational purposes only.
+ * Using it to bypass service restrictions may violate ToS.
+ * Use at your own risk. The author assumes no liability.
+ */
 'use strict';
 
 // 统一配置入口，所有模块从这里读取参数，便于调优。
